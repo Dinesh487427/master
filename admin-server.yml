@@ -2,10 +2,10 @@ server:
   port: 9090
 
 ---
-spring:
-  config:
-    activate:
-      on-profile: docker
+#spring:
+#  config:
+#    activate:
+#      on-profile: docker
 eureka:
   client:
     serviceUrl:
