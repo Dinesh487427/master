@@ -3,7 +3,7 @@
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: eurekaServer
   # standalone mode
   client:
     registerWithEureka: true
